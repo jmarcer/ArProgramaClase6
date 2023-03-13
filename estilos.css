@@ -94,13 +94,18 @@ body{
     margin-left: auto;
 }
 
-.container-iconos{
-    width: 300px;
+.container-iconos{   
+    margin: 15px;
+    padding: 15px;
+    width: 55%;
+    height: auto;
     text-align: center;
+
 
 }
 
 .icono{
     padding: 20px;
+   
 
 }
